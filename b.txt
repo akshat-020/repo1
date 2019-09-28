@@ -1,0 +1,3 @@
+for commiting command-- git commit -m"message"
+
+asdf
